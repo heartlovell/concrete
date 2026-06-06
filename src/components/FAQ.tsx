@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: "Are you licensed and insured?",
-    a: "Absolutely. El Primos Concrete is fully licensed, bonded, and insured in the state of Minnesota. We carry full liability and workers’ comp coverage on every job — we’re happy to provide proof of insurance on request.",
+    a: "Absolutely. Primos Concrete LLC is fully licensed, bonded, and insured in the state of Minnesota. We carry full liability and workers’ comp coverage on every job — we’re happy to provide proof of insurance on request.",
   },
   {
     q: "How long does installation take?",

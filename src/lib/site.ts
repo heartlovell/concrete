@@ -1,5 +1,5 @@
 export const SITE = {
-  name: "El Primos Concrete",
+  name: "Primos Concrete LLC",
   tagline: "Strong Foundations. Exceptional Craftsmanship.",
   promise: "We build concrete that lasts for generations.",
   phone: "(612) 555-0142",

@@ -33,7 +33,7 @@ export default function WhyChooseUs() {
         <div className="max-w-3xl">
           <div className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.25em] text-orange">
             <span className="h-px w-8 bg-orange" />
-            Why El Primos
+            Why Primos
           </div>
           <h2 className="mt-4 font-display text-4xl sm:text-5xl md:text-6xl uppercase leading-[0.95]">
             The difference is in <span className="text-orange">the details</span>
@@ -56,7 +56,7 @@ export default function WhyChooseUs() {
               <span className="h-1.5 w-1.5 rounded-full bg-white" /> Recommended
             </div>
             <h3 className="font-display text-3xl uppercase tracking-wide">
-              El Primos Concrete
+              Primos Concrete LLC
             </h3>
             <p className="mt-1 text-sm text-orange font-semibold uppercase tracking-wider">
               The premium standard

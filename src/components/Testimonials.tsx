@@ -11,7 +11,7 @@ const testimonials = [
     project: "Stamped Patio",
     rating: 5,
     quote:
-      "El Primos Concrete exceeded our expectations. The quality of work was outstanding and the project was completed ahead of schedule. We’ll never use anyone else.",
+      "Primos Concrete LLC exceeded our expectations. The quality of work was outstanding and the project was completed ahead of schedule. We’ll never use anyone else.",
   },
   {
     name: "Marcus Reed",
@@ -27,7 +27,7 @@ const testimonials = [
     project: "Pool Deck",
     rating: 5,
     quote:
-      "We had three quotes and El Primos was clearly the most thorough. They explained the process, showed up on time, and the pool deck looks like it belongs in a magazine.",
+      "We had three quotes and Primos was clearly the most thorough. They explained the process, showed up on time, and the pool deck looks like it belongs in a magazine.",
   },
   {
     name: "David Okonkwo",
@@ -35,7 +35,7 @@ const testimonials = [
     project: "Commercial Parking Lot",
     rating: 5,
     quote:
-      "We hired El Primos for our retail expansion. They handled a complex 22,000 sq ft pour without a hitch. Honest pricing, no surprises, and clean job site every day.",
+      "We hired Primos for our retail expansion. They handled a complex 22,000 sq ft pour without a hitch. Honest pricing, no surprises, and clean job site every day.",
   },
   {
     name: "Emily Pham",

@@ -20,7 +20,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <Image
           src="/projects/patio-stamped-pool.jpg"
-          alt="Premium stamped concrete patio by El Primos Concrete"
+          alt="Premium stamped concrete patio by Primos Concrete LLC"
           fill
           priority
           sizes="100vw"

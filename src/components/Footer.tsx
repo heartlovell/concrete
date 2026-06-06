@@ -193,7 +193,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-white/10 flex flex-col sm:flex-row gap-3 justify-between items-center text-xs text-white/50">
           <p>
-            © {new Date().getFullYear()} El Primos Concrete. All rights reserved. Licensed & Insured.
+            © {new Date().getFullYear()} Primos Concrete LLC. All rights reserved. Licensed & Insured.
           </p>
           <p className="text-white/40">
             We build concrete that lasts for generations.

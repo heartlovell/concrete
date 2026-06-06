@@ -42,7 +42,7 @@ export default function About() {
             <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-2xl">
               <Image
                 src="/projects/patio-large-slab.jpg"
-                alt="El Primos Concrete crew finishing a backyard concrete patio"
+                alt="Primos Concrete LLC crew finishing a backyard concrete patio"
                 fill
                 sizes="(min-width: 1024px) 50vw, 100vw"
                 className="object-cover"
@@ -78,7 +78,7 @@ export default function About() {
             </h2>
             <div className="mt-6 space-y-4 text-base sm:text-lg text-concrete leading-relaxed">
               <p>
-                El Primos Concrete is a family-owned Mexican-American business
+                Primos Concrete LLC is a family-owned Mexican-American business
                 founded on a simple belief: when you pour concrete, you&rsquo;re
                 pouring something that should outlast you.
               </p>

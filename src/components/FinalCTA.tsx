@@ -48,7 +48,7 @@ export default function FinalCTA() {
             </h2>
             <p className="mt-6 text-lg text-white/75 leading-relaxed max-w-lg">
               Get a free estimate and discover why homeowners, contractors, and
-              businesses across the Twin Cities trust El Primos Concrete.
+              businesses across the Twin Cities trust Primos Concrete LLC.
             </p>
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">

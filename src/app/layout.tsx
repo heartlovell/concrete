@@ -20,8 +20,8 @@ const siteUrl = "https://elprimosconcrete.com";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "El Primos Concrete | Premium Concrete Construction in Minnesota",
-    template: "%s | El Primos Concrete",
+    default: "Primos Concrete LLC | Premium Concrete Construction in Minnesota",
+    template: "%s | Primos Concrete LLC",
   },
   description:
     "Family-owned concrete construction company building driveways, patios, foundations, stamped concrete, and commercial concrete for homes, contractors, and developers across the Twin Cities. Licensed, insured, free estimates.",
@@ -34,23 +34,23 @@ export const metadata: Metadata = {
     "concrete foundations",
     "Minneapolis concrete",
     "St. Paul concrete",
-    "El Primos Concrete",
+    "Primos Concrete LLC",
   ],
-  authors: [{ name: "El Primos Concrete" }],
-  creator: "El Primos Concrete",
+  authors: [{ name: "Primos Concrete LLC" }],
+  creator: "Primos Concrete LLC",
   alternates: { canonical: siteUrl },
   openGraph: {
     type: "website",
     locale: "en_US",
     url: siteUrl,
-    siteName: "El Primos Concrete",
-    title: "El Primos Concrete | Strong Foundations. Exceptional Craftsmanship.",
+    siteName: "Primos Concrete LLC",
+    title: "Primos Concrete LLC | Strong Foundations. Exceptional Craftsmanship.",
     description:
       "Professional concrete solutions for homes, businesses, and commercial developments. Built to last for generations.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "El Primos Concrete",
+    title: "Primos Concrete LLC",
     description:
       "Professional concrete solutions for homes, businesses, and commercial developments.",
   },
@@ -78,7 +78,7 @@ export const viewport: Viewport = {
 const localBusinessJsonLd = {
   "@context": "https://schema.org",
   "@type": "GeneralContractor",
-  name: "El Primos Concrete",
+  name: "Primos Concrete LLC",
   image: `${siteUrl}/og.jpg`,
   url: siteUrl,
   telephone: "+1-612-555-0142",
