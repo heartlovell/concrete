@@ -81,7 +81,7 @@ const localBusinessJsonLd = {
   name: "Primos Concrete LLC",
   image: `${siteUrl}/og.jpg`,
   url: siteUrl,
-  telephone: "+1-612-555-0142",
+  telephone: "+1-651-558-7970",
   priceRange: "$$",
   address: {
     "@type": "PostalAddress",

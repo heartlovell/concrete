@@ -83,7 +83,7 @@ export default function QuoteForm() {
             type="tel"
             required
             className="mt-2 w-full rounded-md border border-white/15 bg-white/5 px-4 py-3 text-white placeholder:text-white/30 focus:border-orange focus:bg-white/10 outline-none transition-colors"
-            placeholder="(612) 555-0142"
+            placeholder="(651) 558-7970"
           />
         </div>
         <div>

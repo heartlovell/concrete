@@ -47,12 +47,12 @@ export default function Footer() {
           <div className="lg:col-span-4">
             <div className="flex items-center gap-3">
               <div className="flex h-11 w-11 items-center justify-center rounded-md bg-orange">
-                <span className="font-display text-2xl text-white leading-none">EP</span>
+                <span className="font-display text-2xl text-white leading-none">PC</span>
               </div>
               <div className="flex flex-col leading-tight">
-                <span className="font-display text-lg tracking-wide text-white">EL PRIMOS</span>
+                <span className="font-display text-lg tracking-wide text-white">PRIMOS</span>
                 <span className="text-[10px] font-medium uppercase tracking-[0.25em] text-orange">
-                  Concrete Co.
+                  Concrete LLC
                 </span>
               </div>
             </div>

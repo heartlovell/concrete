@@ -28,14 +28,14 @@ export default function Navbar() {
         <div className="flex h-20 items-center justify-between">
           <a href="#top" className="flex items-center gap-3 group">
             <div className="relative flex h-11 w-11 items-center justify-center rounded-md bg-orange shadow-lg shadow-orange/20">
-              <span className="font-display text-2xl text-white leading-none">EP</span>
+              <span className="font-display text-2xl text-white leading-none">PC</span>
             </div>
             <div className="flex flex-col leading-tight">
               <span className="font-display text-lg tracking-wide text-white">
-                EL PRIMOS
+                PRIMOS
               </span>
               <span className="text-[10px] font-medium uppercase tracking-[0.25em] text-orange">
-                Concrete Co.
+                Concrete LLC
               </span>
             </div>
           </a>
